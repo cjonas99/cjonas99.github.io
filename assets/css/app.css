@@ -1,9 +1,1 @@
-header {
-  background: #27AE60; }
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold; }
-
-#sect-skills {
-  background: #EAEAEA; }
-
+header{background:#27ae60}h1,h2,h3,h4,h5,h6{font-weight:700}#sect-skills{background:#eaeaea}.card-content .title{color:#368cbf}
