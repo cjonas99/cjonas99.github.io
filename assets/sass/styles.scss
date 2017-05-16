@@ -1,0 +1,23 @@
+@import "partials/variables";
+
+body{
+	font-family: $font-family-body;
+}
+
+header{
+	background:$main-green;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: bold;
+}
+
+#head-banner{
+	p{
+		
+	}
+}
+
+#sect-skills{
+	background:$light-gray;
+}
